@@ -14,7 +14,7 @@ public class firstFunc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("Check me!!!");
-		System.out.print("Check me next time!!!");
+		//System.out.print("Check me next time!!!");
 
 	}
 
